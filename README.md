@@ -1,5 +1,7 @@
 # img-cropper
 
+## ⚠️ 100% vibe coded, lol
+
 This Node.js application allows you to crop images from a specified directory to a given size.
 
 **Usage:**
