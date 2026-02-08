@@ -1,4 +1,17 @@
 {
   "name": "img-cropper",
-  "packageManager": "yarn@4.6.0"
+  "version": "1.0.0",
+  "description": "A Node.js application to crop images using ImageMagick.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "sharp": "^0.34.5",
+    "yargs": "^18.0.0"
+  }
 }

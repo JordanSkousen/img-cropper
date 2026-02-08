@@ -11,3 +11,7 @@
 
 #!.yarn/cache
 .pnp.*
+
+node_modules
+img-cropper-rust/target
+.DS_Store
